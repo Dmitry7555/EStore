@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.dbunit:dbunit:2.4.9" type="repository">
+    <properties maven-id="org.dbunit:dbunit:2.4.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.4.9/dbunit-2.4.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
